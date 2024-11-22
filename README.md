@@ -1,13 +1,16 @@
 # Ecommerce-Analysis
 
-Build a Database,Analyze and Retrieve useful Data through excel, Connect Database to Power BI, Visualize Data in Power BI.
+Data Cleaning and Data Manipulation through SQL and Python by establishing relationship btw tables.
 
-– Tools & technologies used: Microsoft Power BI, Data Visualization
+– Tools & technologies used: Analyzing with MySQL and for visualization purpose used JuyPter Notebook.
 
-– Description: Data modelling and generation of KPIs using DAX queries,applying time series analysis for forecasting
-the data for 15 days and it supports supermarket’s goals for growth,efficiency and satisfaction.
+– Data Source: Through Kaggle API website
 
-– Purpose: The Superstore Sales Dashboard is designed to provide a comprehensive and interactive view of our retail
-superstore’s sales performance along with Sales and Profit Forecasting capability. It serves as a one-stop solution
-for tracking, analyzing, and gaining valuable insights into our sales data. The primary goal is to empower our
-team to make data-driven decisions and optimize our sales strategy
+– Description: Data Preparation by inncluding the processes of generate tables, import it’s data/attributes/values,
+define primary and foreign key. After that analysed Annual Customer Activity Growth by including the calculation
+processes of MAU (Monthly Active User), new customers and repeat order customers. At last we analysed Annual
+Product Category Quality by including the calculation processes of top product category, top product revenue,
+most canceled product, most canceled product’s order numbers, and total canceled customers.
+
+– Purpose: Analyzing Ecommerce business performance which the output is just calculation of various important
+KPIs/metrics and visualization also the interpretation of each calculation.
